@@ -1,0 +1,33 @@
+{
+    "src": "https://static1.squarespace.com/static/5a47f99429f1876b4a3404dc/t/5afb802c70a6ad438c12055f/1526431803422/Everdell_Rulebook_draft.pdf", 
+    "story": "Within the charming valley of Everdell, beneath the bough of towering trees, amoung meandering streams and mossy hollows, a civilization of forest critters is thriving and exapnding. Ever since famed adventurere Corrin Evertail discovered the hidden realm long ago, teh citizens have prospered under the shelter of the enduring Ever Tree.\nFrom Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities to be established. You will be the leader of a group of critters intent on just such a task. There are building to construct, lively characters to meet, events to host - you will have a busy year ahead of yourself. Will the sun shine brightest on your city when you are done?\n Prepare to be enchanted by the wondrous world of Evedell. Once you are here, you might never, ever, want to leave.", 
+    "setup": [
+        "PLace the board on the table", 
+        "Suffle the forest cards and randomly use three for two players or four for three or four players. Put the remaining cards back in the box.", 
+        "Place out the four starter Event tiles. Also draw four random Event Cards and place them beside the starter Events", 
+        "Suffle the Construcution and Critter cards and randomly place 8 face-up in the center. The remaining cards form the deck", 
+        "Each player chooses a color and starts with two workers of that color. The most humble player goes first, tThe first player will draw five cards, the second player six cards, the third player seven cards, and the fourth player eight cards", 
+        "Place the season board beside the main board. Each player puts one worker of their color on Spring and Summer and two on Autumn.", 
+        "There is no limit to the amount of resources a player may have during the game. If any resources run out, use something else as substitute"
+    ], 
+    "howToPlay": {
+        "general": "Play proceeds clockwise",
+        "You will take turns performing one fo the following actions:": [
+            {
+                "playWorker": {
+                    "description": "Your workers are necessary for the expansion and success of your city. You will be deploying them to various locations in Everdell in order to gather resources, draw more cards, host Events, or perhaps to embark on a Journey. There are two types of locations:", 
+                    "locations": {
+                        "exclusive": "only one worker may visit and exclusive locaiton", 
+                        "open": "multple workers, even of the same color, may visit an open location"
+                    }}, 
+                "playCard":  
+              },
+                
+            "Play a Card", 
+            "Play a season"
+        ]
+    }
+        
+        
+    ]
+}
